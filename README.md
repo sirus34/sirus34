@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning telegram bots api
+- 🌱 I’m currently learning telegram bots api (aiogram)
 - 💞️ I’m looking to collaborate on startups in IT industry
 - 📫 How to reach me -Telegram: @UnIQ9
 
